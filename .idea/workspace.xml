@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499d2520-be93-4551-bce7-8fef3649000d" name="Changes" comment="added obstacle in the maze and found the path">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/January.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Permutatation/permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionGoogleAmazonQuestion/dicethrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionGoogleAmazonQuestion/phonepad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mazeProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/BinarySearch2D/SearchInSortedMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/BinarySearch2D/searchinmatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/Binarysearch2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/Findfirstandlastposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/LargestElementinSmallestArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/OrderAgnostic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/SmallestElementlargestarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/find_number_of_rotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/findinmountainarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/infiniteArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/peakindexatmountainarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/rotatedbinarysearchwithdublicatedarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/BINARYSEARCH/searchinrotatedarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/Linearsearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/MaxWealth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/Searchin2darray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/Searchinstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/evennumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/evennumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Search/LINEARSEARCH/min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/AmazonQuestions/PhonePad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/AmazonQuestions/diceThrow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/Backtracking/mazeProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/RecursionSubset_Subsequence_String_Question/Ascii.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/RecursionSubset_Subsequence_String_Question/iterativeMethodSubet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/RecursionSubset_Subsequence_String_Question/skipAppwhenNotApple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/RecursionSubset_Subsequence_String_Question/skipString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/RecursionSubset_Subsequence_String_Question/subsequnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/permutation/recursionUsingPermutation.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +36,12 @@
     &quot;assignee&quot;: &quot;ROHITGUPTA069&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ROHITGUPTA069/DSA-.git&quot;,
-    &quot;accountId&quot;: &quot;865d8d4e-51a3-44d4-a0b0-afdfc98e5e63&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ROHITGUPTA069/MyWorkindsa.git",
+    "accountId": "865d8d4e-51a3-44d4-a0b0-afdfc98e5e63"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/BinarySearch2D/SearchInSortedMatrix.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Recursion_practice/Linear_Search_withMultipleOccurence.java" root0="FORCE_HIGHLIGHTING" />
@@ -172,7 +134,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "#1 on main",
+    "git-widget-placeholder": "main",
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -193,6 +155,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rohit Gupta\IdeaProjects\DSA\src\RecursionSubset_Subsequence_String_Question" />
       <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\src\WeeklyTest" />
       <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\src" />
       <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\WeeklyTest" />
