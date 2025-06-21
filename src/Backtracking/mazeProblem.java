@@ -1,4 +1,4 @@
-package String.Backtracking;
+package Backtracking;
 import java.util.*;
 public class mazeProblem {
     public static void main(String[] args) {
