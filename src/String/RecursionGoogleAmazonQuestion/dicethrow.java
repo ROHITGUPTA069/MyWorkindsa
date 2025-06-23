@@ -1,8 +1,9 @@
 package String.RecursionGoogleAmazonQuestion;
 
+//Target is to get 4 in dice
 public class dicethrow {
     public static void main(String[] args) {
-        combo(" ", "123456", 0);
+//        combo(" ", "123456", 0);
         comboDice("", 4);
     }
 
@@ -29,7 +30,7 @@ public class dicethrow {
         combo(p, up.substring(1), sumSoFar);
     }
 
-    //repeatation of numbers
+    //repeatation of numbers allowed
     private static void comboDice(String p, int target){
         if(target  == 0){
             System.out.println(p);

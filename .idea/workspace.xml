@@ -5,64 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499d2520-be93-4551-bce7-8fef3649000d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/allPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/pathAndMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/Binarysearch2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/Findfirstandlastposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/LargestElementinSmallestArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/OrderAgnostic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/SmallestElementlargestarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/find_number_of_rotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/findinmountainarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/infiniteArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/peakindexatmountainarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/rotatedbinarysearchwithdublicatedarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BINARYSEARCH/searchinrotatedarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BinarySearch2D/SearchInSortedMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/BinarySearch2D/searchinmatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/Linearsearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/MaxWealth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/Searchin2darray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/Searchinstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/evennumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/evennumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LINEARSEARCH/min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Permutatation/permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/RecursionGoogleAmazonQuestion/dicethrow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/RecursionGoogleAmazonQuestion/phonepad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/RecursionSubset_Subsequence_String_Question/SkipACharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/RecursionSubset_Subsequence_String_Question/sequnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/RecursionSubset_Subsequence_String_Question/skipAppwhenNotApple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/RecursionSubset_Subsequence_String_Question/skipString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/Binarysearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/Binarysearch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/Findfirstandlastposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/Findfirstandlastposition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/LargestElementinSmallestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/LargestElementinSmallestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/OrderAgnostic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/OrderAgnostic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/SmallestElementlargestarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/SmallestElementlargestarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/find_number_of_rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/find_number_of_rotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/findinmountainarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/findinmountainarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/infiniteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/infiniteArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/peakindexatmountainarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/peakindexatmountainarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/rotatedbinarysearchwithdublicatedarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/rotatedbinarysearchwithdublicatedarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BINARYSEARCH/searchinrotatedarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BINARYSEARCH/searchinrotatedarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch2D/SearchInSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch2D/searchinmatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/Linearsearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/MaxWealth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/Searchin2darray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/Searchinstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/evennumber2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/evennumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LINEARSEARCH/min.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Permutatation/permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionGoogleAmazonQuestion/dicethrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionGoogleAmazonQuestion/dicethrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionGoogleAmazonQuestion/phonepad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionGoogleAmazonQuestion/phonepad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionSubset_Subsequence_String_Question/SkipACharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionSubset_Subsequence_String_Question/SkipACharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionSubset_Subsequence_String_Question/sequnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionSubset_Subsequence_String_Question/sequnce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionSubset_Subsequence_String_Question/skipAppwhenNotApple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionSubset_Subsequence_String_Question/skipAppwhenNotApple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionSubset_Subsequence_String_Question/skipString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionSubset_Subsequence_String_Question/skipString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/String/RecursionGoogleAmazonQuestion/dicethrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/String/RecursionGoogleAmazonQuestion/dicethrow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backtracking/NKnights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backtracking/NKnights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backtracking/Nqueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backtracking/Nqueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/RecursionGoogleAmazonQuestion/dicethrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/RecursionGoogleAmazonQuestion/dicethrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +82,8 @@
     &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.Missing_Number268.executor&quot;: &quot;Run&quot;,
     &quot;Application.MoreThanOneDublicates442.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NKnights.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nqueens.executor&quot;: &quot;Run&quot;,
     &quot;Application.Number_of_Steps_to_Reduce_a_Number_to_Zero.executor&quot;: &quot;Run&quot;,
     &quot;Application.OrderAgnostic.executor&quot;: &quot;Run&quot;,
     &quot;Application.Passing_number.executor&quot;: &quot;Run&quot;,
@@ -153,6 +102,7 @@
     &quot;Application.arrayQuestion.executor&quot;: &quot;Run&quot;,
     &quot;Application.bubbleSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.diceThrow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dicethrow.executor&quot;: &quot;Run&quot;,
     &quot;Application.evennumber2.executor&quot;: &quot;Run&quot;,
     &quot;Application.evennumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.find_number_of_rotation.executor&quot;: &quot;Run&quot;,
@@ -220,7 +170,27 @@
       <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\WeeklyTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pathAndMatrix">
+  <component name="RunManager" selected="Application.NKnights">
+    <configuration name="NKnights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.NKnights" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nqueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.Nqueens" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="allPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backtracking.allPath" />
       <module name="DSA" />
@@ -234,27 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="diceThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.AmazonQuestions.diceThrow" />
+    <configuration name="dicethrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.RecursionGoogleAmazonQuestion.dicethrow" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.AmazonQuestions.*" />
-          <option name="ENABLED" value="false" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mazeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Backtracking.mazeProblem" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
+          <option name="PATTERN" value="String.RecursionGoogleAmazonQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,33 +230,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.permutation" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.NKnights" />
+      <item itemvalue="Application.Nqueens" />
+      <item itemvalue="Application.dicethrow" />
       <item itemvalue="Application.pathAndMatrix" />
       <item itemvalue="Application.allPath" />
-      <item itemvalue="Application.permutation" />
-      <item itemvalue="Application.diceThrow" />
-      <item itemvalue="Application.mazeProblem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NKnights" />
+        <item itemvalue="Application.Nqueens" />
+        <item itemvalue="Application.dicethrow" />
         <item itemvalue="Application.pathAndMatrix" />
         <item itemvalue="Application.allPath" />
-        <item itemvalue="Application.permutation" />
-        <item itemvalue="Application.mazeProblem" />
-        <item itemvalue="Application.diceThrow" />
       </list>
     </recent_temporary>
   </component>
@@ -388,5 +330,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added obstacle in the maze and found the path" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA$Nqueens.ic" NAME="Nqueens Coverage Results" MODIFIED="1750614448995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Backtracking.*</FILTER>
+    </SUITE>
   </component>
 </project>
