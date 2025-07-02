@@ -22,3 +22,9 @@ Thumbs.db
 
 # Ignore build output folder
 out/
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Build output
+out/
