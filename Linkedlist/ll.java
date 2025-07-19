@@ -2,12 +2,25 @@ package Linkedlist;
 
 public class ll {
 
-    private Node head;
+    private static Node head;
     private Node tail;
-    private  int size;
+    private static int size;
 
     public ll(){
         this.size = 0;
+    }
+
+    static class Node{
+        int value;
+        Node next;
+
+        Node(int value){
+            this.value = value;
+        }
+        Node(int value, Node next){
+            this.value = value;
+            this.next = next;
+        }
     }
 
     public void insertfirst(int val) {
@@ -83,16 +96,16 @@ public class ll {
         return null;
     }
 
-
-    class Node{
-        int value;
-        Node next;
-
-        Node(int value){
-            this.value = value;
+    public static void InsertRec(int val, int index){
+         head = InsertRec(val, index, head);
+    }
+    private static Node InsertRec(int val, int index, Node node){
+        if(index == 0){
+            Node WanttoAdd = new Node(val, node);//the new node
+            size++;
+            return WanttoAdd;
         }
-        Node(Node next){
-            this.next = next;
-        }
+        node.next = InsertRec(val, --index, node.next);
+        return node;
     }
 }
